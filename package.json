@@ -1,0 +1,17 @@
+{
+    "name": "jquery-storage",
+    "version": "0.0.1",
+    "description": "",
+    "homepage": "",
+    "author": "",
+    "repository": {
+        "type": "",
+        "url": ""
+    },
+    "bugs": {
+        "url": ""
+    },
+    "license": "",
+    "webDependencies": {
+    }
+}
